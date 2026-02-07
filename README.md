@@ -9,7 +9,7 @@
 <!-- FUN INTRO ANIMATION -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4000&pause=1200&color=00FF41&center=true&width=600&lines=👋+Hi!+I'm+Aditya+Jha;💻+Aspiring+Software+Engineer;🚀+Building+The+Future;✨+One+Code+At+A+Time)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=4500&pause=1500&color=00FF41&center=true&width=700&lines=👋+Hey!+I'm+Aditya+Jha;🎯+Aspiring+Software+Engineer;💡+Turning+Ideas+Into+Code;🚀+Creating+Tomorrow's+Solutions;✨+Making+Impact+With+Technology;🌟+Let's+Build+Something+Amazing!)
 
 </div>
 
@@ -17,14 +17,13 @@
 
 <!-- ANIMATION: WAVE EFFECT -->
 <div align="center">
-
 </div>
 
 
 <!-- ANIMATION: TYPING INTRO -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3500&pause=800&color=FFD700&center=true&width=450&lines=Building+scalable+solutions;Crafting+clean+code;Solving+complex+problems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=4000&pause=900&color=FFD700&center=true&width=500&lines=🔥+Building+scalable+web+solutions;💎+Crafting+clean+%26+elegant+code;⚡+Solving+complex+problems+fast;🎨+Designing+beautiful+experiences)
 
 </div>
 
@@ -83,11 +82,10 @@
 
 </div>
 
-
 <!-- ANIMATION: SKILLS TYPING -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=4000&pause=1000&color=00FF41&center=true&width=500&lines=Scalable+Full+Stack;DSA+%26+Algorithms;Open+Source+Contribution;Problem+Solving)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=4200&pause=1100&color=00FF41&center=true&width=550&lines=🏗️+Full+Stack+Development;🧠+Data+Structures+%26+Algorithms;🤝+Open+Source+Enthusiast;🎯+Problem+Solving+Expert;📚+Forever+Learning)
 
 </div>
 
