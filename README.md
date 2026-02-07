@@ -45,6 +45,13 @@
   </h3>
 </div>
 
+<!-- ANIMATED TECH STACK INTRO -->
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=500&color=00FF41&center=true&width=600&lines=Technologies+that+power+my+projects;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB)
+
+</div>
+
 <!-- FRONTEND STACK -->
 <div align="center">
   <p>
@@ -86,11 +93,11 @@
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
   </h3>
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adityajha-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=58a6ff&count_private=true" alt="GitHub Stats" height="180">
+  <!-- GitHub Stats Card - Using different provider -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityajha-coder&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=58a6ff&hide_border=true&count_private=true)
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha-coder&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=58a6ff" alt="Top Languages" height="180">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha-coder&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00FF41&text_color=58a6ff&hide_border=true)
 
 </div>
 
@@ -129,6 +136,34 @@
 
 ---
 
+<!-- UNIQUE ANIMATION: REAL-TIME SYSTEM MONITOR -->
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=800&color=00FF41&center=true&width=700&lines=%24+./system.sh;%24+loading+repositories...;%24+fetching+commits...;%24+analyzing+code+patterns...;%24+status:+READY+%E2%9C%93)
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATION: NEON LINES AND DIGITAL EFFECTS -->
+<div align="center">
+
+  ```
+  ╔══════════════════════════════════════════════════════════╗
+  ║                                                          ║
+  ║  ███▓▒░ DIGITAL SIGNATURE ░▒▓███                        ║
+  ║                                                          ║
+  ║  ~~~~~~~~~~ ADITYA JHA ~~~~~~~~~~                       ║
+  ║  Full Stack Developer | Algorithms Enthusiast           ║
+  ║  Open Source Contributor | Problem Solver               ║
+  ║                                                          ║
+  ╚══════════════════════════════════════════════════════════╝
+  ```
+
+</div>
+
+---
+
 <!-- UNIQUE ANIMATION: MATRIX CODE RAIN -->
 <div align="center">
 
@@ -142,6 +177,15 @@
   ║  > STATUS: IN PROGRESS ⚡                         ║
   ╚════════════════════════════════════════════════════╝
   ```
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATION: ANIMATED MATRIX EFFECT -->
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=500&color=00FF41&center=true&width=800&lines=1+0+1+0+1+1+0+1+1+0+1+0+1+1+0+1;0+1+1+0+0+1+0+1+0+1+1+0+0+1+1+0;1+0+1+1+0+1+0+1+1+0+1+1+0+1+0+1)
 
 </div>
 
@@ -195,6 +239,32 @@
 
 ---
 
+<!-- UNIQUE ANIMATION: CYBER WAVE EFFECT -->
+<div align="center">
+
+  ```
+  ～～～～～～～～～～～～～～～～～～～～～～～～～～
+  ░▓██ PASSION FOR CODE ██▓░
+  ～～～～～～～～～～～～～～～～～～～～～～～～～～
+  
+  💾 Building Tomorrow's Solutions Today
+  🎯 Focused on Quality & Performance
+  🚀 Pushing Boundaries of Web Development
+  
+  ～～～～～～～～～～～～～～～～～～～～～～～～～～
+  ```
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATION: INTERACTIVE LOADING BARS -->
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00FF41&center=true&width=550&lines=Initializing+Success+Sequence...;████████████████████+100%25;Ready+for+New+Challenges+✓)
+
+</div>
+
 <!-- UNIQUE ANIMATION: SCROLLING CODE -->
 <div align="center">
 
@@ -230,19 +300,40 @@
 
 ---
 
-<!-- UNIQUE ANIMATION: MISSION BRIEFING -->
+<!-- UNIQUE ANIMATION: NEON GLOW EFFECT -->
 <div align="center">
 
   ```
-  ╔════════════════════════════════════════════════════╗
-  ║          📡 MISSION BRIEFING 📡                    ║
-  ╠════════════════════════════════════════════════════╣
-  ║  ◆ OBJECTIVE: Build Scalable Applications         ║
-  ║  ◆ STATUS: IN PROGRESS ████████░░ 80%            ║
-  ║  ◆ MOTIVATION: Create Impact                      ║
-  ║  ◆ TIMELINE: Infinity                             ║
-  ║  ◆ SUCCESS RATE: 📈 UNLIMITED                     ║
-  ╚════════════════════════════════════════════════════╝
+  ✧･ﾟ: *✧･ﾟ:* PASSION DRIVEN CODE *:･ﾟ✧*:･ﾟ✧
+  
+  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+  ┃  Creating digital solutions that       ┃
+  ┃  make a difference in the world        ┃
+  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+  ```
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATION: SPEED CODING EFFECT -->
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=2500&pause=500&color=00FF41&center=true&width=700&lines=function+solveProblems%28%29%7B;++while+%28learning%29+%7B;++++code%28%29%3B;++++improve%28%29%3B;++%7D;%7D;)
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATION: DIGITAL HEARTBEAT -->
+<div align="center">
+
+  ```
+  ║ ║ ║█ ║ ║ ║ ║█ ║ ║ ║ ║█ ║ ║ ║ ║█ ║ ║ ║ ║█
+  
+  ▒▓█ ALWAYS CONNECTED TO CODE █▓▒
+  
+  ║ ║ ║█ ║ ║ ║ ║█ ║ ║ ║ ║█ ║ ║ ║ ║█ ║ ║ ║ ║█
   ```
 
 </div>
@@ -261,7 +352,6 @@
   <h3>⭐ If you found this interesting, don't forget to star! ⭐</h3>
 
   ---
-
-  *Building scalable solutions, one commit at a time* 🚀
+*Building scalable solutions, one commit at a time* 🚀
 
 </div>
