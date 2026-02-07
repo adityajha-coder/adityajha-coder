@@ -18,9 +18,6 @@
 <!-- ANIMATION: WAVE EFFECT -->
 <div align="center">
 
-```
-～～～～～～～～～～～～～～～～～～～～～～
-```
 
 </div>
 
@@ -86,9 +83,6 @@
 <!-- ANIMATION: DIAGONAL LINES -->
 <div align="center">
 
-```
-╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
-```
 
 </div>
 
@@ -106,7 +100,7 @@
 <!-- CONTRIBUTION ANIMATION -->
 <div align="center">
 
-## 🔥 Contribution Activity
+## Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41&area_color=161b22&area=true)
 
