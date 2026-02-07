@@ -1,183 +1,86 @@
-<!-- MINIMAL HEADER WITH ANIMATION -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FF41&center=true&width=600&lines=Aditya+Jha;Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=00FF41&center=true&width=650&lines=Aditya+Jha;Full+Stack+Engineer)
 
 </div>
 
 ---
 
-<!-- ANIMATED DIVIDER -->
 <div align="center">
 
-```
-═══════════════════════════════════════════════════════════
-```
+## 🛠️ Tech Stack
+
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+</a>
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+</a>
+
+<br>
+
+<a href="https://www.cplusplus.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+</a>
+<a href="https://www.w3schools.com/c/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+</a>
 
 </div>
 
 ---
 
-<!-- VISUAL ANIMATION: DIAGONAL LINES -->
 <div align="center">
 
-```
-╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
-```
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=4000&pause=1000&color=00FF41&center=true&width=500&lines=Scalable+Full+Stack;DSA+%26+Algorithms;Open+Source;Problem+Solving)
 
 </div>
 
 ---
 
-<!-- TECH STACK - MINIMAL -->
 <div align="center">
 
-### 🛠️ TECH STACK
-
-**Frontend** → React • Next.js • JavaScript • HTML5 • CSS3
-
-**Backend** → Node.js • Express • MongoDB
-
-**Languages** → JavaScript • C • C++
-
-**Tools** → Git • GitHub • REST API
-
-</div>
-
----
-
-<!-- KEY STATS CARD -->
-<div align="center">
+## 📊 Stats
 
 ```
-╔════════════════════════════════════════╗
-║           📊 QUICK STATS               ║
-╠════════════════════════════════════════╣
-║  GitHub → github.com/adityajha-coder   ║
-║  Location → Delhi, India               ║
-║  Status → Actively Coding              ║
-╚════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<!-- ANIMATED SKILL VISUALIZATION -->
-<div align="center">
-
-```
-💻 FULL STACK
-████████████████░░░░ 80%
-
-🧠 ALGORITHMS & DSA  
-███████████████░░░░░ 75%
-
-⚡ PROBLEM SOLVING
-██████████████████░░ 90%
-
-📚 OPEN SOURCE
-████████████░░░░░░░░ 70%
+Full Stack Development    ████████████████░░ 80%
+Problem Solving          ██████████████████░ 90%
+Open Source              ███████████░░░░░░░░ 70%
 ```
 
 </div>
 
 ---
 
-<!-- VISUAL ANIMATION: WAVE EFFECT -->
 <div align="center">
 
-```
-～～～～～～～～～～～～～～～～～～～～～～～
-```
+## 🔥 Activity
 
-</div>
-
----
-
-<!-- GITHUB LINK CARD -->
-<div align="center">
-
-### 📈 GitHub Stats
-
-> View my work → **[github.com/adityajha-coder](https://github.com/adityajha-coder)**
-
-</div>
-
----
-
-<!-- VISUAL ANIMATION: PULSING DOTS -->
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=00FF41&center=true&width=400&lines=●+●+●;●+●+●;●+●+●)
-
-</div>
-
----
-
-<!-- ANIMATED CONTRIBUTION HEATMAP -->
-<div align="center">
-
-### 🔥 Contribution Graph
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41&area_color=161b22&area=true)
-
-</div>
-
----
-
-<!-- VISUAL ANIMATION: STACKED BOXES -->
-<div align="center">
-
-```
-┌─────────────────────────────┐
-│  ✓ React      ✓ Next.js     │
-│  ✓ Node.js    ✓ MongoDB     │
-│  ✓ JavaScript ✓ GitHub      │
-└─────────────────────────────┘
-```
-
-</div>
-
----
-
-<!-- VISUAL SEPARATOR -->
-<div align="center">
-
-```
-◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆
-```
-
-</div>
-
----
-
-<!-- VISUAL ANIMATION: TYPING TECH LANGUAGES -->
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=800&color=00FF41&center=true&width=500&lines=const+languages+%3D+%5B'JavaScript','C','C%2B%2B'%5D;const+frameworks+%3D+%5B'React','Next.js'%5D;const+db+%3D+'MongoDB';const+tools+%3D+'Git')
-
-</div>
-
----
-
-<!-- CONTACT SECTION - MINIMAL -->
-<div align="center">
-
-### 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-jha-8534a1305/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/adityajha-coder)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adityajha97172@gmail.com)
-
-</div>
-
----
-
-<!-- ANIMATED CLOSING BANNER -->
-<div align="center">
-
-![Banner](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41&area=true" alt="GitHub Activity Graph">
 
 </div>
 
@@ -185,26 +88,34 @@
 
 <div align="center">
 
-**Building scalable solutions** • **Open to collaborations**
+## 📍 Connect
+
+<a href="https://www.linkedin.com/in/aditya-jha-8534a1305/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/adityajha-coder" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:adityajha97172@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 </div>
 
 ---
 
-<!-- VISUAL ANIMATION: ANIMATED LINES -->
 <div align="center">
 
-```
-→ → → → → → → → → → → → → → → →
-```
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3500&pause=800&color=FFD700&center=true&width=550&lines=Building+scalable+web+applications;Contributing+to+open+source;Solving+complex+problems)
 
 </div>
 
 ---
 
-<!-- CLOSING ANIMATION -->
 <div align="center">
 
-![](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 </div>
