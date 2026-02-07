@@ -1,6 +1,6 @@
 <div align="center">
 
-![Coder](https://user-images.githubusercontent.com/74038190/213844271-a46db57f-5c5c-40c0-bb6e-eeadf274734e.gif)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=00FF41&center=true&width=650&lines=Aditya+Jha;Full+Stack+Engineer)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=00FF41&center=true&width=650&lines=Aditya+Jha;Full+Stack+Engineer)
+![Coder](https://user-images.githubusercontent.com/74038190/213844271-a46db57f-5c5c-40c0-bb6e-eeadf274734e.gif)
 
 </div>
 
@@ -64,14 +64,6 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=4000&pause=1000&color=00FF41&center=true&width=500&lines=Scalable+Full+Stack;DSA+%26+Algorithms;Open+Source;Problem+Solving)
-
-</div>
-
----
-
-<div align="center">
-
 ## 📍 Connect
 
 <a href="https://www.linkedin.com/in/aditya-jha-8534a1305/" target="_blank">
@@ -92,7 +84,9 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3500&pause=800&color=FFD700&center=true&width=550&lines=Building+scalable+web+applications;Contributing+to+open+source;Solving+complex+problems)
+## Contribution
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41&area=true)
 
 </div>
 
@@ -100,4 +94,6 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=4000&pause=1000&color=00FF41&center=true&width=700&lines=Building+Scalable+Applications;Solving+Complex+Problems;Contributing+Open+Source)
+
+</div>
