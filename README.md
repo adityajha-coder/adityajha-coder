@@ -1,10 +1,10 @@
 <!-- HEADER WITH ANIMATED TITLE -->
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00FF41&center=true&width=600&lines=Hi!+I'm+Aditya+Jha;Full+Stack+Engineer;Building+Scalable+Applications;Hacker+x+Gamer+Mentality)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00FF41&center=true&width=800&lines=Hi!+I'm+Aditya+Jha;Aspiring+Software+Engineer;Building+Scalable+Applications;Full+Stack+Developer)
 
   <!-- Animated Border -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -31,7 +31,7 @@
 
   <p>
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="25">
-    <b>Passionate Full Stack Engineer</b>
+    <b>Aspiring Software Engineer</b>
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="25">
   </p>
 
@@ -43,11 +43,11 @@
 
 ---
 
-<!-- TECH STACK WITH GAME PROGRESSION -->
+<!-- TECH STACK WITH HACKER STYLE -->
 <div align="center">
   <h3>
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
-    SKILL INVENTORY [UNLOCKED]
+    TECH ARSENAL
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
   </h3>
 </div>
@@ -85,65 +85,68 @@
 
 ---
 
-<!-- GAME PROGRESSION BARS -->
+<!-- HACKER TERMINAL STYLE - EXPERTISE LEVELS -->
 <div align="center">
   <h3>
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
-    PLAYER STATS
+    EXPERTISE MATRIX
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
   </h3>
 </div>
 
 ```
 ╔══════════════════════════════════════════╗
-║  EXPERIENCE LEVEL: INTERMEDIATE+ ⚡      ║
-║  ████████████████░░ 85%                  ║
+║  FULL STACK DEVELOPMENT                  ║
+║  ████████████████░░░░ 80%                ║
 ╠══════════════════════════════════════════╣
-║  FULL STACK DEVELOPMENT: EXPERT          ║
-║  ███████████████░░░░ 85%                 ║
+║  ALGORITHMS & DSA                        ║
+║  ███████████████░░░░░ 75%                ║
 ╠══════════════════════════════════════════╣
-║  ALGORITHMS & DSA: ADVANCED              ║
-║  ███████████████░░░░ 80%                 ║
+║  PROBLEM SOLVING                         ║
+║  ████████████████░░░░ 85%                ║
 ╠══════════════════════════════════════════╣
-║  OPEN SOURCE CONTRIBUTION: ACTIVE        ║
-║  ████████████░░░░░░░ 70%                 ║
+║  OPEN SOURCE CONTRIBUTIONS               ║
+║  ████████████░░░░░░░░ 70%                ║
 ╠══════════════════════════════════════════╣
-║  PROBLEM SOLVING: LEGENDARY              ║
-║  ████████████████░░░░ 90%                 ║
+║  CONTINUOUS LEARNING                     ║
+║  ███████████████████░ 95%                ║
 ╚══════════════════════════════════════════╝
 ```
 
----
-
-<!-- GITHUB STATS WITH NEON GLOW -->
+<!-- GITHUB STATS WITH NEON GLOW - WORKING VERSION -->
 <div align="center">
   <h3>
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
-    GITHUB METRICS
+    GITHUB ANALYTICS
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
   </h3>
 
-  <a href="https://github.com/adityajha-coder">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adityajha-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=58a6ff&count_private=true&cache_seconds=1800" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityajha-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=58a6ff&count_private=true" alt="GitHub Stats">
-  </a>
+  </picture>
   
-  <a href="https://github.com/adityajha-coder">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajha-coder&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=58a6ff" alt="Top Languages">
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha-coder&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=58a6ff&cache_seconds=1800" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha-coder&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=58a6ff" alt="Top Languages">
+  </picture>
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- ANIMATED CONTRIBUTION DASHBOARD -->
 <div align="center">
   <h3>
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
-    CONTRIBUTION HEATMAP
+    CONTRIBUTION HEATMAP [LIVE]
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
   </h3>
 
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41&area_color=161b22&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41&area_color=161b22&area=true" alt="GitHub Activity Graph">
+  </picture>
 
 </div>
 
@@ -170,7 +173,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=00FF41" alt="GitHub">
   </a>
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:adityajha97172@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a&color=00FF41" alt="Email">
   </a>
 </div>
@@ -212,10 +215,10 @@
   ╔════════════════════════════════════════════════════╗
   ║  [████████████████████] 100% READY FOR CHALLENGES ║
   ║                                                    ║
-  ║  🎮 Game Mode: ON                                  ║
-  ║  🔓 Hack Mode: ACTIVATED                           ║
+  ║  💻 Dev Mode: ACTIVATED                            ║
+  ║  🔓 Problem Solving: ENGAGED                       ║
   ║  ⚡ Energy Level: MAX                              ║
-  ║  🚀 Launch Sequence: INITIATED                     ║
+  ║  🚀 Ready to Build: YES                            ║
   ╚════════════════════════════════════════════════════╝
   ```
 
@@ -226,18 +229,16 @@
 <div align="center">
   
   <!-- Final Animated Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
   <p>
-    <i>💻 Crafting code that scales. 🎮 Playing the developer's game. 🔓 Hacking solutions into existence.</i>
+    <i>💻 Crafting code that scales. 🔓 Solving complex problems. ⚡ Building the future.</i>
   </p>
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=adityajha-coder&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
 
   <h3>⭐ If you found this interesting, don't forget to star! ⭐</h3>
 
   ---
 
-  **Made with ❤️ by Aditya Jha** | *Building the future, one line of code at a time* 🚀
+*Building scalable solutions, one commit at a time* 🚀
 
 </div>
