@@ -85,7 +85,7 @@
 
 ---
 
-<!-- GITHUB STATS WITH NEON GLOW - WORKING VERSION -->
+<!-- GITHUB STATS WITH NEON GLOW - CUSTOM DISPLAY -->
 <div align="center">
   <h3>
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
@@ -93,30 +93,47 @@
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
   </h3>
 
-  <!-- GitHub Stats Card - Using different provider -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityajha-coder&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=58a6ff&hide_border=true&count_private=true)
-  
-  <!-- Top Languages Card -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha-coder&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00FF41&text_color=58a6ff&hide_border=true)
+  ```
+  ╔════════════════════════════════════════╗
+  ║  📊 GITHUB PROFILE STATISTICS 📊       ║
+  ╠════════════════════════════════════════╣
+  ║  Public Repos       ████████░░ 80%     ║
+  ║  Total Stars        ███████░░░ 70%     ║
+  ║  Contributions      ██████████ 100%    ║
+  ║  Followers          ██████░░░░ 60%     ║
+  ║  Contributions      💚 ACTIVE           ║
+  ╚════════════════════════════════════════╝
+  ```
+
+  > View on [GitHub](https://github.com/adityajha-coder) for live stats!
 
 </div>
 
 ---
 
-<!-- UNIQUE ANIMATED SECTION - BINARY RAIN EFFECT -->
+<!-- UNIQUE ANIMATION: GLOWING GRADIENT WAVE -->
 <div align="center">
 
   ```
-  ▓▒░ INITIALIZING NEURAL NETWORK ░▒▓
-  [██████████████████] 100% LOADED
-  
-  ┌─────────────────────────────────────┐
-  │  > system.status: READY             │
-  │  > cache.memory: OPTIMIZED          │
-  │  > bandwidth: UNLIMITED             │
-  │  > firewall: SECURED                │
-  └─────────────────────────────────────┘
+  ╔══════════════════════════════════════════════════════════╗
+  ║                                                          ║
+  ║        💫 WELCOME TO MY DIGITAL UNIVERSE 💫             ║
+  ║                                                          ║
+  ║     🌟 ✨ 🔥 ⚡ 🚀 💻 🎯 🔧 📚 🌈 💡 🎨                 ║
+  ║                                                          ║
+  ║  Where Code Meets Creativity & Innovation              ║
+  ║                                                          ║
+  ╚══════════════════════════════════════════════════════════╝
   ```
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATION: BOUNCING DOTS EFFECT -->
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=5000&pause=1000&color=00FF41&center=true&width=600&lines=🔵+Building+🟢+Innovating+🔴+Creating;✨+Passionate+💻+Driven+🎯+Focused)
 
 </div>
 
@@ -136,10 +153,30 @@
 
 ---
 
-<!-- UNIQUE ANIMATION: REAL-TIME SYSTEM MONITOR -->
+<!-- UNIQUE ANIMATION: ARTISTIC PORTFOLIO SHOWCASE -->
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=800&color=00FF41&center=true&width=700&lines=%24+./system.sh;%24+loading+repositories...;%24+fetching+commits...;%24+analyzing+code+patterns...;%24+status:+READY+%E2%9C%93)
+  ```
+  ╭─────────────────────────────────────────╮
+  │         ⭐ MY SUPERPOWERS ⭐           │
+  ├─────────────────────────────────────────┤
+  │  💡 Problem Solving      ████████░░     │
+  │  🚀 Speed & Efficiency   █████████░     │
+  │  🎯 Precision            ██████████     │
+  │  📚 Knowledge            ███████░░░     │
+  │  🤝 Collaboration        ████████░░     │
+  │  💪 Persistence          ██████████     │
+  ╰─────────────────────────────────────────╯
+  ```
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATION: COSMIC JOURNEY -->
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=5000&pause=1500&color=00FF41&center=true&width=650&lines=🚀+Blasting+off+on+a+coding+journey;🌟+Reaching+for+the+stars;🌌+Exploring+infinite+possibilities)
 
 </div>
 
@@ -182,10 +219,25 @@
 
 ---
 
-<!-- UNIQUE ANIMATION: ANIMATED MATRIX EFFECT -->
+---
+
+<!-- UNIQUE ANIMATION: RAINBOW PULSE EFFECT -->
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=500&color=00FF41&center=true&width=800&lines=1+0+1+0+1+1+0+1+1+0+1+0+1+1+0+1;0+1+1+0+0+1+0+1+0+1+1+0+0+1+1+0;1+0+1+1+0+1+0+1+1+0+1+1+0+1+0+1)
+  ```
+  🎨 ═══════════════════════════════════════ 🎨
+  
+          🌈 COLORS OF CODE 🌈
+        
+  🔴 Red  = Passion & Energy
+  🟠 Orange = Creativity & Innovation  
+  🟡 Yellow = Positivity & Brightness
+  🟢 Green = Growth & Progress
+  🔵 Blue = Stability & Trust
+  🟣 Purple = Mystery & Vision
+  
+  🎨 ═══════════════════════════════════════ 🎨
+  ```
 
 </div>
 
@@ -265,7 +317,20 @@
 
 </div>
 
-<!-- UNIQUE ANIMATION: SCROLLING CODE -->
+<!-- UNIQUE ANIMATION: JOURNEY MAP -->
+<div align="center">
+
+  ```
+  📍 MY DEVELOPER JOURNEY 📍
+  
+  START 🎯 ──→ LEARNING ──→ CODING ──→ BUILDING
+     ↓           ↓            ↓          ↓
+   2024      📚 Skills    💻 Projects  🚀 Success
+     
+     Every step forward is progress!
+  ```
+
+</div>
 <div align="center">
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=00FF41&center=true&width=550&lines=const+dreams+%3D+%5B'learn','build','innovate'%5D;while(true)+%7B+dreams.push('code')%3B+%7D)
@@ -300,6 +365,35 @@
 
 ---
 
+<!-- UNIQUE ANIMATION: CREATIVE INSPIRATION -->
+<div align="center">
+
+  ```
+  🎨 ═══════════════════════════════════════ 🎨
+  
+        🌟 CREATIVE CODE PHILOSOPHY 🌟
+        
+  Elegance + Functionality = Perfect Code
+  
+  "Code is poetry written for machines
+   but read by humans"
+  
+  🎨 ═══════════════════════════════════════ 🎨
+  ```
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATION: SPEED METRICS -->
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1000&color=FFD700&center=true&width=600&lines=FAST+LEARNING+SPEED;QUICK+PROBLEM+SOLVING;RAPID+PROTOTYPING+SKILLS)
+
+</div>
+
+---
+
 <!-- UNIQUE ANIMATION: NEON GLOW EFFECT -->
 <div align="center">
 
@@ -316,25 +410,95 @@
 
 ---
 
-<!-- UNIQUE ANIMATION: SPEED CODING EFFECT -->
+<!-- UNIQUE ANIMATION: ADVENTURE MODE -->
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=2500&pause=500&color=00FF41&center=true&width=700&lines=function+solveProblems%28%29%7B;++while+%28learning%29+%7B;++++code%28%29%3B;++++improve%28%29%3B;++%7D;%7D;)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=14&duration=4500&pause=1200&color=1E90FF&center=true&width=600&lines=Adventure+Mode:+ENABLED;Imagination+Level:+∞;Innovation+Potential:+UNLIMITED)
 
 </div>
 
 ---
 
-<!-- UNIQUE ANIMATION: DIGITAL HEARTBEAT -->
+<!-- UNIQUE ANIMATION: TECH EXPLORER -->
 <div align="center">
 
   ```
-  ║ ║ ║█ ║ ║ ║ ║█ ║ ║ ║ ║█ ║ ║ ║ ║█ ║ ║ ║ ║█
+  🗺️  TECH STACK EXPLORATION MAP 🗺️
   
-  ▒▓█ ALWAYS CONNECTED TO CODE █▓▒
-  
-  ║ ║ ║█ ║ ║ ║ ║█ ║ ║ ║ ║█ ║ ║ ║ ║█ ║ ║ ║ ║█
+  ┌─────────────────────────────────────┐
+  │                                     │
+  │  🧭 Frontend Lands  → React, Next   │
+  │  🏔️  Backend Mountains → Node, Expr│
+  │  🏰 Database Kingdom  → MongoDB     │
+  │  ⚙️  Tools & Utils    → Git, Linux  │
+  │  🚀 Launch Platform   → GitHub      │
+  │                                     │
+  └─────────────────────────────────────┘
   ```
+
+</div>
+
+---
+
+---
+
+<!-- UNIQUE ANIMATION: GROWTH TREE EFFECT -->
+<div align="center">
+
+  ```
+       🌱 GROWTH MINDSET 🌱
+  
+                  🌳
+                 🌳🌳
+                🌳🌳🌳
+               🌳🌳🌳🌳
+  
+  Every line of code is a step forward
+  Every bug fixed is a lesson learned
+  Every project is a new branch
+  
+            Growing Stronger 💪
+  ```
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATION: STARS & ACHIEVEMENTS -->
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&size=14&duration=4000&pause=1000&color=FFD700&center=true&width=600&lines=⭐+Learning+⭐+Building+⭐;🏆+Achieving+🏆+Goals+🏆;✨+Creating+✨+Magic+✨)
+
+</div>
+
+---
+
+---
+
+<!-- UNIQUE ANIMATION: PUZZLE SOLVER JOURNEY -->
+<div align="center">
+
+  ```
+  🧩 ═══════════════════════════════════════ 🧩
+  
+      SOLVING THE CODE PUZZLE ONE PIECE AT A TIME
+  
+    🧩 + 🧩 = 💡 (Understanding)
+    💡 + 💡 = ⚙️  (Building)
+    ⚙️  + ⚙️  = 🚀 (Shipping)
+    🚀 + 🚀 = 🌟 (Success)
+  
+  🧩 ═══════════════════════════════════════ 🧩
+  ```
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATION: VISION & DREAMS -->
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=13&duration=4500&pause=1200&color=FF1493&center=true&width=650&lines=Vision:+Build+amazing+products;Mission:+Create+positive+impact;Goal:+Never+stop+improving)
 
 </div>
 
@@ -352,6 +516,7 @@
   <h3>⭐ If you found this interesting, don't forget to star! ⭐</h3>
 
   ---
-*Building scalable solutions, one commit at a time* 🚀
+
+ *Building scalable solutions, one commit at a time* 🚀
 
 </div>
