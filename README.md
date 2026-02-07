@@ -22,13 +22,6 @@
 <!-- ABOUT ME SECTION WITH NEON EFFECT -->
 <div align="center">
   
-  ```
-  ╔════════════════════════════════════════╗
-  ║     > ABOUT THE DEVELOPER              ║
-  ║     ████████████████████ 100%          ║
-  ╚════════════════════════════════════════╝
-  ```
-
   <p>
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="25">
     <b>Aspiring Software Engineer</b>
@@ -69,49 +62,21 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a&color=00FF41" alt="Node.js">
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a&color=00FF41" alt="Express">
     <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a&color=00FF41" alt="MongoDB">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a&color=00FF41" alt="PostgreSQL">
   </p>
 </div>
 
-<!-- OTHER TOOLS -->
+<!-- OTHER TOOLS & LANGUAGES -->
 <div align="center">
   <p>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a&color=00FF41" alt="C">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a&color=00FF41" alt="C++">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a&color=00FF41" alt="Git">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a&color=00FF41" alt="Docker">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=00FF41" alt="GitHub">
     <img src="https://img.shields.io/badge/REST%20API-00A86B?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=00FF41" alt="REST API">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a&color=00FF41" alt="Linux">
   </p>
 </div>
 
 ---
-
-<!-- HACKER TERMINAL STYLE - EXPERTISE LEVELS -->
-<div align="center">
-  <h3>
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
-    EXPERTISE MATRIX
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
-  </h3>
-</div>
-
-```
-╔══════════════════════════════════════════╗
-║  FULL STACK DEVELOPMENT                  ║
-║  ████████████████░░░░ 80%                ║
-╠══════════════════════════════════════════╣
-║  ALGORITHMS & DSA                        ║
-║  ███████████████░░░░░ 75%                ║
-╠══════════════════════════════════════════╣
-║  PROBLEM SOLVING                         ║
-║  ████████████████░░░░ 85%                ║
-╠══════════════════════════════════════════╣
-║  OPEN SOURCE CONTRIBUTIONS               ║
-║  ████████████░░░░░░░░ 70%                ║
-╠══════════════════════════════════════════╣
-║  CONTINUOUS LEARNING                     ║
-║  ███████████████████░ 95%                ║
-╚══════════════════════════════════════════╝
-```
 
 <!-- GITHUB STATS WITH NEON GLOW - WORKING VERSION -->
 <div align="center">
@@ -121,15 +86,30 @@
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
   </h3>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adityajha-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=58a6ff&count_private=true&cache_seconds=1800" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityajha-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=58a6ff&count_private=true" alt="GitHub Stats">
-  </picture>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adityajha-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=58a6ff&count_private=true" alt="GitHub Stats" height="180">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha-coder&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=58a6ff&cache_seconds=1800" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha-coder&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=58a6ff" alt="Top Languages">
-  </picture>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha-coder&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=58a6ff" alt="Top Languages" height="180">
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATED SECTION - BINARY RAIN EFFECT -->
+<div align="center">
+
+  ```
+  ▓▒░ INITIALIZING NEURAL NETWORK ░▒▓
+  [██████████████████] 100% LOADED
+  
+  ┌─────────────────────────────────────┐
+  │  > system.status: READY             │
+  │  > cache.memory: OPTIMIZED          │
+  │  > bandwidth: UNLIMITED             │
+  │  > firewall: SECURED                │
+  └─────────────────────────────────────┘
+  ```
 
 </div>
 
@@ -143,10 +123,25 @@
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
   </h3>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41&area_color=161b22&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41&area_color=161b22&area=true" alt="GitHub Activity Graph">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41&area_color=161b22&area=true" alt="GitHub Activity Graph">
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATION: MATRIX CODE RAIN -->
+<div align="center">
+
+  ```
+  ╔════════════════════════════════════════════════════╗
+  ║  [▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯] SKILLS DOWNLOAD: 87%     ║
+  ║                                                    ║
+  ║  > COMPILING KNOWLEDGE...                         ║
+  ║  > ANALYZING PATTERNS...                          ║
+  ║  > OPTIMIZING ALGORITHMS...                       ║
+  ║  > STATUS: IN PROGRESS ⚡                         ║
+  ╚════════════════════════════════════════════════════╝
+  ```
 
 </div>
 
@@ -200,14 +195,23 @@
 
 ---
 
-<!-- ANIMATED TYPING & GAME ELEMENTS -->
+<!-- UNIQUE ANIMATION: SCROLLING CODE -->
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=00FF41&center=true&width=550&lines=const+dreams+%3D+%5B'learn','build','innovate'%5D;while(true)+%7B+dreams.push('code')%3B+%7D)
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATION: STATUS INDICATOR -->
 <div align="center">
   
   ![Coding GIF](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif)
 
   <h3>
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
-    STATUS: ONLINE & ACTIVELY CODING
+    SYSTEM STATUS
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-9c59-833b34ded299.gif" width="35">
   </h3>
 
@@ -219,6 +223,25 @@
   ║  🔓 Problem Solving: ENGAGED                       ║
   ║  ⚡ Energy Level: MAX                              ║
   ║  🚀 Ready to Build: YES                            ║
+  ╚════════════════════════════════════════════════════╝
+  ```
+
+</div>
+
+---
+
+<!-- UNIQUE ANIMATION: MISSION BRIEFING -->
+<div align="center">
+
+  ```
+  ╔════════════════════════════════════════════════════╗
+  ║          📡 MISSION BRIEFING 📡                    ║
+  ╠════════════════════════════════════════════════════╣
+  ║  ◆ OBJECTIVE: Build Scalable Applications         ║
+  ║  ◆ STATUS: IN PROGRESS ████████░░ 80%            ║
+  ║  ◆ MOTIVATION: Create Impact                      ║
+  ║  ◆ TIMELINE: Infinity                             ║
+  ║  ◆ SUCCESS RATE: 📈 UNLIMITED                     ║
   ╚════════════════════════════════════════════════════╝
   ```
 
@@ -239,6 +262,6 @@
 
   ---
 
-*Building scalable solutions, one commit at a time* 🚀
+  *Building scalable solutions, one commit at a time* 🚀
 
 </div>
