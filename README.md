@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=00FF41&center=true&width=650&lines=Aditya+Jha;Full+Stack+Engineer)
+![Coder](https://user-images.githubusercontent.com/74038190/213844271-a46db57f-5c5c-40c0-bb6e-eeadf274734e.gif)
 
 </div>
 
@@ -8,7 +8,27 @@
 
 <div align="center">
 
-![Coder](https://user-images.githubusercontent.com/74038190/213844271-a46db57f-5c5c-40c0-bb6e-eeadf274734e.gif)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00FF41&center=true&width=500&lines=Aditya+Jha;Full+Stack+Engineer)
+
+</div>
+
+---
+
+<!-- ANIMATION: WAVE EFFECT -->
+<div align="center">
+
+```
+～～～～～～～～～～～～～～～～～～～～～～
+```
+
+</div>
+
+---
+
+<!-- ANIMATION: TYPING INTRO -->
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3500&pause=800&color=FFD700&center=true&width=450&lines=Building+scalable+solutions;Crafting+clean+code;Solving+complex+problems)
 
 </div>
 
@@ -37,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
 </a>
 
-<br>
+<br><br>
 
 <a href="https://www.cplusplus.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
@@ -62,6 +82,35 @@
 
 ---
 
+<!-- ANIMATION: DIAGONAL LINES -->
+<div align="center">
+
+```
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
+```
+
+</div>
+
+---
+
+<!-- ANIMATION: SKILLS TYPING -->
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=4000&pause=1000&color=00FF41&center=true&width=500&lines=Scalable+Full+Stack;DSA+%26+Algorithms;Open+Source+Contribution;Problem+Solving)
+
+</div>
+
+---
+
+<!-- ANIMATION: DOTS BOUNCING -->
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=500&color=00FF41&center=true&width=200&lines=●;●+●;●+●+●)
+
+</div>
+
+---
+
 <div align="center">
 
 ## 📍 Connect
@@ -74,6 +123,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
+<a href="https://www.instagram.com/adjzyy/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
 <a href="mailto:adityajha97172@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
@@ -82,11 +135,23 @@
 
 ---
 
+<!-- ANIMATION: PULSING BOXES -->
 <div align="center">
 
-## Contribution
+```
+┌────────────┐  ┌────────────┐  ┌────────────┐
+│  Building  │  │  Creating  │  │  Learning  │
+└────────────┘  └────────────┘  └────────────┘
+```
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41&area=true)
+</div>
+
+---
+
+<!-- ANIMATION: CLOSING TYPING -->
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1000&color=FFD700&center=true&width=550&lines=Code+%7C+Collaborate+%7C+Create)
 
 </div>
 
@@ -94,6 +159,6 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=4000&pause=1000&color=00FF41&center=true&width=700&lines=Building+Scalable+Applications;Solving+Complex+Problems;Contributing+Open+Source)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 </div>
