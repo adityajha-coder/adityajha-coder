@@ -1,5 +1,13 @@
 <div align="center">
 
+![Coder](https://user-images.githubusercontent.com/74038190/213844271-a46db57f-5c5c-40c0-bb6e-eeadf274734e.gif)
+
+</div>
+
+---
+
+<div align="center">
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=00FF41&center=true&width=650&lines=Aditya+Jha;Full+Stack+Engineer)
 
 </div>
@@ -64,30 +72,6 @@
 
 <div align="center">
 
-## 📊 Stats
-
-```
-Full Stack Development    ████████████████░░ 80%
-Problem Solving          ██████████████████░ 90%
-Open Source              ███████████░░░░░░░░ 70%
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41&area=true" alt="GitHub Activity Graph">
-
-</div>
-
----
-
-<div align="center">
-
 ## 📍 Connect
 
 <a href="https://www.linkedin.com/in/aditya-jha-8534a1305/" target="_blank">
@@ -117,5 +101,3 @@ Open Source              ███████████░░░░░░░�
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-</div>
