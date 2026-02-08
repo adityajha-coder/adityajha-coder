@@ -9,7 +9,7 @@
 <!-- FUN INTRO ANIMATION -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4000&pause=1200&color=00FF41&center=true&width=600&lines=👋+Hi!+I'm+Aditya+Jha;💻+Full+Stack+Engineer;🚀+Building+Responsive+Web+Applications;✨+One+Code+At+A+Time)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4000&pause=1200&color=00FF41&center=true&width=600&lines=👋+Hi!+I'm+Aditya+Jha;💻+Full+Stack+Developer;🚀+Building+Something+Simple;✨+One+Code+At+A+Time)
 
 </div>
 
