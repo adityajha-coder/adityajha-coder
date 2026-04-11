@@ -1,173 +1,127 @@
 <div align="center">
 
-![Coder](https://user-images.githubusercontent.com/74038190/213844271-a46db57f-5c5c-40c0-bb6e-eeadf274734e.gif)
+<!-- Anime Boy Coding GIF at the top -->
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Anime Coding" />
 
+<br>
+
+<h1>
+  <b>ADITYA JHA</b> 
+</h1>
+
+### 👨‍💻 FULL STACK DEVELOPER
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=4000&pause=1000&color=00FF41&center=true&width=600&lines=Building+Scalable+Solutions;Architecting+Digital+Experiences;Crafting+Modern,+Efficient+Webapps;Turning+Ideas+Into+Reality)
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=adityajha-coder&label=Profile%20Views&color=00FF41&style=for-the-badge" alt="Views"/>
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
-
-<!-- FUN INTRO ANIMATION -->
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4000&pause=1200&color=00FF41&center=true&width=600&lines=👋+Hi!+I'm+Aditya+Jha;💻+Full+Stack+Developer;🚀+Building+Something+Simple;✨+One+Code+At+A+Time)
-
-</div>
-
----
-
-<!-- ANIMATION: WAVE EFFECT -->
-<div align="center">
-
-</div>
-
-
-<!-- ANIMATION: TYPING INTRO -->
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3500&pause=800&color=FFD700&center=true&width=450&lines=Building+scalable+solutions;Crafting+clean+code;Solving+complex+problems)
-
-</div>
-
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35"/> About My Journey
 
 <div align="center">
 
-## 🛠️ Tech Stack
+*I architect scalable systems using the MERN stack and integrate AI-driven tools to enhance user experiences.*  
+*Constantly exploring the bleeding edge of web frameworks.*
 
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=800&color=FFD700&center=true&width=500&lines=console.log('C++');console.log('React+|+Next.js');console.log('Node.js+|+Express');console.log('MongoDB+|+Firebase')" />
+
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="35"/> Tech Stack 
+
+**Core Languages**
+<br>
+<a href="https://skillicons.dev" align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" alt="Languages" />
 </a>
 
 <br><br>
 
-<a href="https://www.cplusplus.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+**Frameworks & Libraries**
+<br>
+<a href="https://skillicons.dev" align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,express,fastapi" alt="Frameworks" />
 </a>
-<a href="https://www.w3schools.com/c/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+
+<br><br>
+
+**Tools, Databases & Platforms**
+<br>
+<a href="https://skillicons.dev" align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vercel,vscode" alt="Tools" />
 </a>
 
 </div>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
-<!-- ANIMATION: DIAGONAL LINES -->
 <div align="center">
 
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35"/> GitHub Statistics
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityajha-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" alt="Aditya's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha-coder&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00FF41&text_color=ffffff" alt="Top Languages" />
+</p>
 
-<!-- ANIMATION: SKILLS TYPING -->
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=adityajha-coder&theme=radical&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=00FF41&dates=ffffff" alt="Aditya's Streak" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=4000&pause=1000&color=00FF41&center=true&width=500&lines=Scalable+Full+Stack;DSA+%26+Algorithms;Open+Source+Contribution;Problem+Solving)
-
-</div>
-
----
-
-<!-- CONTRIBUTION ANIMATION -->
-<div align="center">
+<br>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41&area_color=161b22&area=true)
 
-</div>
+<br>
 
----
-
-<!-- ANIMATION: DOTS BOUNCING -->
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=500&color=00FF41&center=true&width=200&lines=●;●+●;●+●+●)
+<!-- Anime lofi coding with music GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4bc1-8501-33230a9117cf.gif" width="400" alt="Lofi Coding" />
 
 </div>
 
----
-
-<!-- ANIMATION: FUN STATS -->
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&size=13&duration=3500&pause=900&color=00FF41&center=true&width=500&lines=💡+Problem+Solver;🚀+Code+Enthusiast;📚+Forever+Learning;🎯+Goal+Driven)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35"/> Let's Connect
 
-</div>
+***Currently looking for work collaboration and freelancing opportunities!***
 
----
+<br>
 
-<div align="center">
-
-## 📍 Connect
-
-<a href="https://www.linkedin.com/in/aditya-jha-8534a1305/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/adityajha-coder" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/adjzyy/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="mailto:adityajha97172@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-</div>
-
----
-
-<!-- ANIMATION: PULSING BOXES -->
-<div align="center">
-
-```
-┌────────────┐  ┌────────────┐  ┌────────────┐
-│  Building  │  │  Creating  │  │  Learning  │
-└────────────┘  └────────────┘  └────────────┘
-```
-
-</div>
-
----
-
-<!-- ANIMATION: CLOSING TYPING -->
-<div align="center">
+<p align="center">
+  <a href="mailto:personal.adityajha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-jha-8534a1305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/adityajha-coder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/adjzyy/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1000&color=FFD700&center=true&width=550&lines=Code+%7C+Collaborate+%7C+Create)
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
