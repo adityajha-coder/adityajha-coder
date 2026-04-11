@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35"/> About My Journey
+## 🚀 About My Journey
 
 <div align="center">
 
@@ -40,9 +40,9 @@
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="35"/> Tech Stack 
+## 🛠️ Tech Stack 
 
-**Core Languages**
+**Languages**
 <br>
 <a href="https://skillicons.dev" align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" alt="Languages" />
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35"/> GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityajha-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" alt="Aditya's GitHub Stats" />
@@ -99,7 +99,7 @@
 <br>
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35"/> Let's Connect
+## 🤝 Let's Connect
 
 ***Currently looking for work collaboration and freelancing opportunities!***
 
