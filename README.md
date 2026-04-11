@@ -42,7 +42,7 @@
 
 ## 🛠️ Tech Stack 
 
-**Languages**
+**Core Languages**
 <br>
 <a href="https://skillicons.dev" align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" alt="Languages" />
@@ -74,16 +74,7 @@
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityajha-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" alt="Aditya's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha-coder&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00FF41&text_color=ffffff" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=adityajha-coder&theme=radical&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=00FF41&dates=ffffff" alt="Aditya's Streak" />
-</p>
-
-<br>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=radical&hide_border=true&bg_color=0d1117&color=00FF41&line=58a6ff&point=00FF41&area_color=161b22&area=true)
 
@@ -100,8 +91,6 @@
 <div align="center">
 
 ## 🤝 Let's Connect
-
-***Currently looking for work collaboration and freelancing opportunities!***
 
 <br>
 
