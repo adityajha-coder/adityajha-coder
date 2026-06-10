@@ -76,7 +76,7 @@ Passionate about emerging technologies and innovation, I enjoy building modern w
 
 <br/>
 
-<a href="mailto:personal.adityajha@gmail.com" target="_blank">
+<a href="mailto:developer.adityajha@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Identity"/>
 </a> &nbsp;
 <a href="https://www.linkedin.com/in/aditya-jha-8534a1305/" target="_blank">
