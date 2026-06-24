@@ -6,10 +6,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" style="border-radius: 12px;" alt="Developer Environment" />
 
-#  **ADITYA JHA** 
-### `FULL STACK Developer`
+#  **Hii, I'm ADITYA JHA** 
+### Full-Stack Developer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3500&pause=1000&color=00FF41&center=true&width=600&lines=Building+Modern+WebApps;Integrating+AI+Solutions;Exploring+Latest+Technologies)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3500&pause=1000&color=00FF41&center=true&width=600&lines=Turning+Ideas+Into+Products;Integrating+AI+Into+Real+World+Solutions;Exploring+Latest+Technologies)
 
 <br/>
 
@@ -30,7 +30,7 @@ Passionate about emerging technologies and innovation, I enjoy building modern w
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2000&pause=800&color=FFD700&center=true&width=550&lines=const+developer+=+new+AdityaJha();;developer.buildFrameworks(['React',+'Next.js']);;developer.engineerSystems(['Node.js',+'REST+APIs']);;developer.compileLanguages(['JavaScript',+'C%2B%2B']);" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2500&pause=1000&color=00FF41&center=true&width=700&lines=const+developer+%3D+%22Aditya+Jha%22;developer.build(%22Full-Stack+Applications%22);developer.integrate(%22AI+Solutions%22);developer.solve(%22Real-World+Problems%22)" />
 </div>
 
 <br/>
@@ -76,18 +76,33 @@ Passionate about emerging technologies and innovation, I enjoy building modern w
 
 <br/>
 
+<div align="center">
+
 <a href="mailto:developer.adityajha@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Identity"/>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/aditya-jha-8534a1305/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Identity"/>
-</a> &nbsp;
-<a href="https://github.com/adityajha-coder" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Identity"/>
-</a> &nbsp;
-<a href="https://www.instagram.com/adjzyy/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Identity"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/aditya-jha-8534a1305/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/adityajha-coder" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="40" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/adjzyy/" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/adityajha_7" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="40" alt="X"/>
+</a>
+
+</div>
 
 <br/><br/>
 
