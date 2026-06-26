@@ -7,10 +7,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" style="border-radius: 12px;" alt="Developer Environment" />
 
 #  **Hii, I'm ADITYA JHA** 
-### Full-Stack Developer
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3500&pause=1000&color=00FF41&center=true&width=600&lines=Turning+Ideas+Into+Products;Integrating+AI+Into+Real+World+Solutions;Exploring+Latest+Technologies)
-
+# *Full-Stack Developer*
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=adityajha-coder&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge" alt="Profile Telemetry"/>
