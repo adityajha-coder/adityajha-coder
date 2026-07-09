@@ -38,12 +38,12 @@ Passionate about emerging technologies and innovation, I enjoy building modern w
 
 <div align="center">
 
-| CORE SPECIALIZATION | SYSTEM COMPONENTS & TOOLING |
+| CATEGORY | TECHNOLOGIES & TOOLS |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,html,css" alt="Languages" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,threejs" alt="Frameworks" /> |
-| **Cloud & DB** | <img src="https://skillicons.dev/icons?i=mongodb,firebase,docker,vercel" alt="Cloud Infrastructure" /> |
-| **Ecosystem** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Ecosystem Tools" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,framer,gsap" alt="Frontend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase" alt="Backend" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" alt="Tools" /> |
 
 </div>
 <br/>
