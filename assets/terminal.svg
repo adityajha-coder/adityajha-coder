@@ -103,7 +103,7 @@
     <path d="M162 450 L180 450 L180 468" fill="none" stroke="#00FF41" stroke-width="2"/>
     <path d="M30 582 L30 600 L48 600" fill="none" stroke="#00FF41" stroke-width="2"/>
     <path d="M180 582 L180 600 L162 600" fill="none" stroke="#00FF41" stroke-width="2"/>
-    <text x="105" y="540" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="66" font-weight="bold" fill="#00FF41" filter="url(#glow2)">AJ</text>
+    <text x="105" y="540" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="45" font-weight="bold" fill="#00FF41" filter="url(#glow2)">ADZYY</text>
 
     <g font-family="Consolas, 'Courier New', monospace" font-size="13">
       <text x="220" y="466"><tspan fill="#00FF41" font-weight="bold">OS</tspan><tspan fill="#4d804d">:      </tspan><tspan fill="#c8ffd9">AdityaOS [Full-Stack Edition]</tspan></text>
