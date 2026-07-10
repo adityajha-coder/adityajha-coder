@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/crt-boot.svg" alt="boot sequence" width="100%"/>
+<img src="assets/terminal.svg" alt="terminal session" width="100%"/>
 
 </div>
 
@@ -13,49 +13,9 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<br/>
 
-## `$ whoami`
-
-```diff
-+ Full-Stack Developer (MERN) who turns vague 2 AM ideas into things people can click on.
-+ I like owning the whole chain — schema to server to pixel-perfect frontend.
-+ Currently deep in React / Next.js, with Node, Express, and MongoDB doing the heavy lifting.
-+ Perpetually mid-refactor. Send help, or better, send a pull request.
-```
-
-<img src="assets/divider.svg" width="100%"/>
-
-## `$ neofetch`
-
-<div align="center">
-<img src="assets/neofetch.svg" alt="neofetch" width="100%"/>
-</div>
-
-<img src="assets/divider.svg" width="100%"/>
-
-## `$ ls ~/tech-stack --tree`
-
-```
-~/tech-stack
-├── languages/    →  C · C++ · JavaScript · TypeScript · HTML · CSS
-├── frontend/     →  React · Next.js · Tailwind · Three.js · Framer Motion · GSAP
-├── backend/      →  Node.js · Express · MongoDB · MySQL · Firebase · Supabase
-└── tools/        →  Git · GitHub · VS Code · Postman · Docker · Vercel
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,html,css&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,framer&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel&theme=dark" />
-
-</div>
-
-<img src="assets/divider.svg" width="100%"/>
-
-## `$ cat stats.log`
+### `$ cat stats.log`
 
 <table align="center">
 <tr>
@@ -72,18 +32,18 @@
 <img src="https://github-profile-trophy.vercel.app/?username=adityajha-coder&theme=matrix&no-frame=true&margin-w=8&row=1" />
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<br/>
 
-## `$ git log --graph --contributions`
+### `$ git log --graph --contributions`
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=react-dark&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-<!-- Contribution snake — appears after the snake.yml workflow (included alongside this README) runs once on your repo -->
+<!-- appears once the included snake.yml workflow has run at .github/workflows/snake.yml -->
 <img src="https://raw.githubusercontent.com/adityajha-coder/adityajha-coder/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<br/>
 
 <details>
 <summary><code>$ sudo access --secret-log</code></summary>
@@ -98,9 +58,9 @@
 
 </details>
 
-<img src="assets/divider.svg" width="100%"/>
+<br/>
 
-## `$ ping contact --live`
+### `$ ping contact --live`
 
 <div align="center">
 
@@ -112,14 +72,10 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by...;Now+compiling+the+next+idea...;%3E+_" />
-
 <br/>
 
-`process exited with code 0 — see you in the next commit`
-
+<div align="center">
+<img src="assets/terminal-close.svg" width="100%"/>
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by...;Now+compiling+the+next+idea...;%3E+_" />
 </div>
