@@ -70,7 +70,7 @@
     </rect>
   </clipPath>
   <text x="30" y="256" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#c8ffd9" clip-path="url(#typeClip)" textLength="655" lengthAdjust="spacingAndGlyphs">
-    Full-Stack Developer // MERN // building things that shouldn't exist yet
+    Full-Stack Developer // MERN // Golang // building things that shouldn't exist yet
   </text>
   <rect x="688" y="242" width="9" height="17" fill="#00FF41" opacity="0">
     <animate attributeName="opacity" values="0;1;1;0;0;1" keyTimes="0;0.01;0.5;0.51;0.99;1" dur="1s" begin="5.25s" repeatCount="indefinite"/>
@@ -83,8 +83,8 @@
   </text>
   <g font-family="Consolas, 'Courier New', monospace" font-size="13" opacity="0">
     <text x="30" y="322"><tspan fill="#33FF66">+ </tspan><tspan fill="#c8ffd9">Full-Stack Developer (MERN) turning 2 AM ideas into real products.</tspan></text>
-    <text x="30" y="342"><tspan fill="#33FF66">+ </tspan><tspan fill="#c8ffd9">I like owning the whole chain — schema, server, and pixel-perfect UI.</tspan></text>
-    <text x="30" y="362"><tspan fill="#33FF66">+ </tspan><tspan fill="#c8ffd9">Currently deep in React / Next.js on the front, Node / Express / Mongo on the back.</tspan></text>
+    <text x="30" y="342"><tspan fill="#33FF66">+ </tspan><tspan fill="#c8ffd9">Loves thinking of new ideas and turning them into reality through code.</tspan></text>
+    <text x="30" y="362"><tspan fill="#33FF66">+ </tspan><tspan fill="#c8ffd9">Staying at the forefront of AI integration, modern frameworks, and software design patterns to build resilient softwares.</tspan></text>
     <text x="30" y="382"><tspan fill="#33FF66">+ </tspan><tspan fill="#c8ffd9">Perpetually mid-refactor. Send a PR, not sympathy.</tspan></text>
     <animate attributeName="opacity" from="0" to="1" begin="5.6s" dur="0.35s" fill="freeze"/>
   </g>
@@ -108,8 +108,8 @@
     <g font-family="Consolas, 'Courier New', monospace" font-size="13">
       <text x="220" y="466"><tspan fill="#00FF41" font-weight="bold">OS</tspan><tspan fill="#4d804d">:      </tspan><tspan fill="#c8ffd9">AdityaOS [Full-Stack Edition]</tspan></text>
       <text x="220" y="486"><tspan fill="#00FF41" font-weight="bold">Host</tspan><tspan fill="#4d804d">:    </tspan><tspan fill="#c8ffd9">github.com/adityajha-coder</tspan></text>
-      <text x="220" y="506"><tspan fill="#00FF41" font-weight="bold">Kernel</tspan><tspan fill="#4d804d">:  </tspan><tspan fill="#c8ffd9">React 18 · Node 20 · Express</tspan></text>
-      <text x="220" y="526"><tspan fill="#00FF41" font-weight="bold">Shell</tspan><tspan fill="#4d804d">:   </tspan><tspan fill="#c8ffd9">JavaScript ⨯ TypeScript</tspan></text>
+      <text x="220" y="506"><tspan fill="#00FF41" font-weight="bold">Kernel</tspan><tspan fill="#4d804d">:  </tspan><tspan fill="#c8ffd9">React · Node · Express</tspan></text>
+      <text x="220" y="526"><tspan fill="#00FF41" font-weight="bold">Shell</tspan><tspan fill="#4d804d">:   </tspan><tspan fill="#c8ffd9">JavaScript ⨯ TypeScript ⨯ Golang</tspan></text>
       <text x="220" y="546"><tspan fill="#00FF41" font-weight="bold">DE</tspan><tspan fill="#4d804d">:      </tspan><tspan fill="#c8ffd9">MERN Stack</tspan></text>
       <text x="220" y="566"><tspan fill="#00FF41" font-weight="bold">CPU</tspan><tspan fill="#4d804d">:     </tspan><tspan fill="#c8ffd9">Problem-Solving Core (100% util)</tspan></text>
       <text x="220" y="586"><tspan fill="#00FF41" font-weight="bold">Memory</tspan><tspan fill="#4d804d">:  </tspan><tspan fill="#c8ffd9">∞ browser tabs, mostly Stack Overflow</tspan></text>
@@ -132,10 +132,10 @@
   </text>
   <g font-family="Consolas, 'Courier New', monospace" font-size="13" opacity="0">
     <text x="30" y="680" fill="#c8ffd9">~/tech-stack</text>
-    <text x="30" y="700"><tspan fill="#33FF66">├── languages/</tspan><tspan fill="#4d804d">   →  </tspan><tspan fill="#c8ffd9">C · C++ · JavaScript · TypeScript · HTML · CSS</tspan></text>
+    <text x="30" y="700"><tspan fill="#33FF66">├── languages/</tspan><tspan fill="#4d804d">   →  </tspan><tspan fill="#c8ffd9">C · C++ · JavaScript · TypeScript · Go · HTML · CSS</tspan></text>
     <text x="30" y="720"><tspan fill="#33FF66">├── frontend/</tspan><tspan fill="#4d804d">    →  </tspan><tspan fill="#c8ffd9">React · Next.js · Tailwind · Three.js · Framer · GSAP</tspan></text>
     <text x="30" y="740"><tspan fill="#33FF66">├── backend/</tspan><tspan fill="#4d804d">     →  </tspan><tspan fill="#c8ffd9">Node.js · Express · MongoDB · MySQL · Firebase · Supabase</tspan></text>
-    <text x="30" y="760"><tspan fill="#33FF66">└── tools/</tspan><tspan fill="#4d804d">       →  </tspan><tspan fill="#c8ffd9">Git · GitHub · VS Code · Postman · Docker · Vercel</tspan></text>
+    <text x="30" y="760"><tspan fill="#33FF66">└── tools/</tspan><tspan fill="#4d804d">       →  </tspan><tspan fill="#c8ffd9">Git · GitHub · Postman · Docker · Vercel</tspan></text>
     <animate attributeName="opacity" from="0" to="1" begin="7.2s" dur="0.35s" fill="freeze"/>
   </g>
 
