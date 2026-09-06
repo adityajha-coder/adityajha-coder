@@ -82,7 +82,7 @@
     <animate attributeName="opacity" from="0" to="1" begin="5.3s" dur="0.3s" fill="freeze"/>
   </text>
   <g font-family="Consolas, 'Courier New', monospace" font-size="13" opacity="0">
-    <text x="30" y="322"><tspan fill="#33FF66">+ </tspan><tspan fill="#c8ffd9">Full-Stack Developer (MERN) turning 2 AM ideas into real products.</tspan></text>
+    <text x="30" y="322"><tspan fill="#33FF66">+ </tspan><tspan fill="#c8ffd9">Full-Stack Developer, turning 2 AM ideas into real products.</tspan></text>
     <text x="30" y="342"><tspan fill="#33FF66">+ </tspan><tspan fill="#c8ffd9">Loves thinking of new ideas and turning them into reality through code.</tspan></text>
     <text x="30" y="362"><tspan fill="#33FF66">+ </tspan><tspan fill="#c8ffd9">Staying at the forefront of AI integration, modern frameworks, and software design patterns to build resilient softwares.</tspan></text>
     <text x="30" y="382"><tspan fill="#33FF66">+ </tspan><tspan fill="#c8ffd9">Perpetually mid-refactor. Send a PR, not sympathy.</tspan></text>
