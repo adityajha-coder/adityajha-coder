@@ -18,7 +18,8 @@
  `$ git log --graph --contributions`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajha-coder&theme=react-dark&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/adityajha-coder/adityajha-coder/output/activity-graph.svg" alt="Activity Graph" width="100%"/>
+</div>
 
 <br/>
 
