@@ -132,9 +132,9 @@
   </text>
   <g font-family="Consolas, 'Courier New', monospace" font-size="13" opacity="0">
     <text x="30" y="680" fill="#c8ffd9">~/tech-stack</text>
-    <text x="30" y="700"><tspan fill="#33FF66">├── languages/</tspan><tspan fill="#4d804d">   →  </tspan><tspan fill="#c8ffd9">C · C++ · JavaScript · TypeScript · Go · HTML · CSS</tspan></text>
-    <text x="30" y="720"><tspan fill="#33FF66">├── frontend/</tspan><tspan fill="#4d804d">    →  </tspan><tspan fill="#c8ffd9">React · Next.js · Tailwind · Three.js · Framer · GSAP</tspan></text>
-    <text x="30" y="740"><tspan fill="#33FF66">├── backend/</tspan><tspan fill="#4d804d">     →  </tspan><tspan fill="#c8ffd9">Node.js · Express · MongoDB · MySQL · Firebase · Supabase</tspan></text>
+    <text x="30" y="700"><tspan fill="#33FF66">├── languages/</tspan><tspan fill="#4d804d">   →  </tspan><tspan fill="#c8ffd9">C · C++ · JavaScript · TypeScript · Go</tspan></text>
+    <text x="30" y="720"><tspan fill="#33FF66">├── frontend/</tspan><tspan fill="#4d804d">    →  </tspan><tspan fill="#c8ffd9">HTML · CSS · React · Next.js · Tailwind · Three.js · Framer</tspan></text>
+    <text x="30" y="740"><tspan fill="#33FF66">├── backend/</tspan><tspan fill="#4d804d">     →  </tspan><tspan fill="#c8ffd9">Node.js · Express · MongoDB · PostgreSQL · Redis · Firebase · Supabase</tspan></text>
     <text x="30" y="760"><tspan fill="#33FF66">└── tools/</tspan><tspan fill="#4d804d">       →  </tspan><tspan fill="#c8ffd9">Git · GitHub · Postman · Docker · Vercel</tspan></text>
     <animate attributeName="opacity" from="0" to="1" begin="7.2s" dur="0.35s" fill="freeze"/>
   </g>
