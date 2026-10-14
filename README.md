@@ -15,7 +15,7 @@
 
 <br/>
 
- `$ git log --graph --contributions`
+`guest@ADITYA-JHA:~$ git log --graph --contributions`
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/adityajha-coder/adityajha-coder/output/activity-graph.svg" alt="Activity Graph" width="100%"/>
@@ -23,7 +23,7 @@
 
 <br/>
 
-`$ ping contact --live`
+`guest@ADITYA-JHA:~$ ping contact --live`
 
 <div align="center">
 
@@ -41,5 +41,5 @@
 <div align="center">
 <img src="assets/terminal-close.svg" width="100%"/>
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting...;Now+compiling+the+next+idea...;%3E+_" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Thinking...;Now+compiling+the+next+idea...;%3E+_" />
 </div>
